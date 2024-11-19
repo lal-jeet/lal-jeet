@@ -1,4 +1,4 @@
-## Hi there 👋 I'm LAL JEET😇
+## <h1 align="center">Hi there 👋 I'm LAL JEET</h1>
 
 <!--
 **lal-jeet/lal-jeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there 👋 I'm LAL JEET</h1>
+## <h1 align="center">Hello folks👋 I'm LAL JEET</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on #Frontend Development.<br>🌱 I’m currently learning #C Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : laljeetofficialwork@gmail.com<br>⚡ Code eat sleep repeat
@@ -14,8 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lal-jeet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lal-jeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lal-jeet&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lal-jeet&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lal-jeet&icon=0&color=0)](https://visitcount.itsvg.in)

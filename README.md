@@ -1,6 +1,6 @@
 ## <h1 align="center">Hello folks👋 I'm LAL JEET</h1>
 
-# 💫 About Me:
+# 💫 About Me::
 🔭 I’m currently working on #Frontend Development.<br>🌱 I’m currently learning #C Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : laljeetofficialwork@gmail.com<br>⚡ Code eat sleep repeat
 
 

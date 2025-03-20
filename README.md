@@ -1,7 +1,7 @@
 ## <h1 align="center">Hello folks👋 I'm LAL JEET</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on #Frontend and Backend Development.<br>🌱 I’m currently learning #C Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : laljeetofficialwork@gmail.com<br>⚡ Code eat sleep repeat
+🔭 I’m currently working on #Frontend and Backend Development.<br>🌱 I’m currently learning #JAVA Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : laljeetofficialwork@gmail.com<br>⚡ Code eat sleep repeat
 
 
 ## 🌐 Socials:

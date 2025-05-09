@@ -1,5 +1,5 @@
 ## <h1 align="center">Hello folks👋 I'm LAL JEET</h1>
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 # 💫 About Me:<br>
 🔭 I’m currently working on #Java Full Stack Development.<br>🌱 I’m currently learning #JAVA Backend programming.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about java programming.<br>📫 How to reach me by mail: laljeetofficialwork@gmail.com <br>⚡ Code eat sleep repeat
 

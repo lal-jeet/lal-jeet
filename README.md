@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=lal-jeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lal-jeet&theme=dark&hide_border=false)<br/>
 
-<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=lal-jeet&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=lal-jeet&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lal-jeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

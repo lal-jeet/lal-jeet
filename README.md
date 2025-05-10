@@ -13,7 +13,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=lal-jeet&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lal-jeet&theme=dark&hide_border=false)<br/>
 
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=lal-jeet" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=lal-jeet&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=lal-jeet&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lal-jeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

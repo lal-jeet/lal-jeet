@@ -1,7 +1,7 @@
 ## <h1 align="center">Hello folks👋 I'm LAL JEET</h1>
 <img align="right" top="500" height="210" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 # 💫 About Me:<br>
-🔭 I’m currently working on #.NET Full Stack Development.<br>🌱 I’m currently learning #.NET Backend programming.<br>🤔 I’m looking for .NET Developer Role.<br>💬 Ask me about c# And java programming.<br>📫 How to reach me by mail: laljeetofficialwork@gmail.com <br>⚡ Code eat sleep repeat..
+🔭 I’m currently working on C# .NET Full Stack Development.<br>🌱 I’m currently learning #.NET Backend programming.<br>🤔 I’m looking for .NET Developer Role.<br>💬 Ask me about c# And java programming.<br>📫 How to reach me by mail: laljeetofficialwork@gmail.com <br>⚡ Code eat sleep repeat..
 
 
 ## 🌐 Socials:
